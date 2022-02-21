@@ -1,0 +1,29 @@
+
+.img{
+  float: left;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15vw;
+}
+
+.center-text{
+  text-align: center;
+}
+
+.big-img{
+  width: 20vw;
+}
+
+.mid-img{
+  width: 18vw;
+}
+
+.small-img{
+  width: 20vw;
+}
+
+
